@@ -24,7 +24,12 @@ Hệ thống gồm các khối chức năng chính:
 - **Hiển thị cục bộ**: Màn hình OLED 0.96”.
 - **Kết nối IoT**: WiFi, Web/App giám sát.
 - **Khối cảnh báo**: LED / thông báo khi vượt ngưỡng cho phép.
+
+  
   <img width="542" height="325" alt="image" src="https://github.com/user-attachments/assets/4becc7bf-3b53-4126-9710-e95f7030a8a7" />
+
+
+  
 Nguyên lý hoạt động:
 Cảm biến → ESP32 xử lý & bù nhiệt → Hiển thị → Gửi dữ liệu IoT → Cảnh báo.
 
